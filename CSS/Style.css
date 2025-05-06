@@ -1,0 +1,23 @@
+body {
+    align-items: center;
+    background-color: bisque;
+}
+
+header {
+    text-align: center;
+    justify-content: center;
+}
+
+.sec1 {
+    text-align: center;
+}
+
+.sec2 {
+    text-align: center;
+}
+
+footer {
+    padding-top: 20px;
+    text-align: center;
+    align-items: end;
+}
